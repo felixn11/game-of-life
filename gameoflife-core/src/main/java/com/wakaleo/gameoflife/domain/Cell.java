@@ -13,7 +13,7 @@ public enum Cell {
     public String toString() {
         return symbol;
     }
-
+    /**Added comment**/
     static Cell fromSymbol(final String symbol) {
         Cell cellRepresentedBySymbol = null;
         for (Cell cell : Cell.values()) {
