@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletRequest;
 @Named
 @SessionScoped
 public class GameBean implements Serializable {
-    /*nog een keer klaar voor testing*/
+    /*opnieuw klaar voor testing*/
     private int rows = 3;
     private int columns = 3;
     private Universe universe;
