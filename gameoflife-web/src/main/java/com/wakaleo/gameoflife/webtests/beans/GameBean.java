@@ -13,7 +13,7 @@ import javax.inject.Named;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * This class rocks.
+ * This class sucks.
  *
  * @author felix
  */
