@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * This class sucks.
  *
- * @author felix
+ * @author felixxx
  */
 @Named
 @SessionScoped
