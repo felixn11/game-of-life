@@ -19,3 +19,8 @@ public class HomePage extends GameOfLifePage {
         newGameLink.click();
     }
 }
+
+public void clickOnNewGameLink() {
+        newGameLink.click();
+
+//clone git test
